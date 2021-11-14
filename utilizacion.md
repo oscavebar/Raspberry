@@ -6,8 +6,8 @@ Es un ordenador de bajo coste y formato compacto destinado al desarrollado para 
 
 Óscar Avecilla Barrios
 
-[Raspberry 1](raspberry1.png)
+[Raspberry 1](imagenes/raspberry1.png)
 
-[Raspberry 2](raspberry2.png)
+[Raspberry 2](imagenes/raspberry2.png)
 
-[Sistema Operativo](so.png)
+[Sistema Operativo](imagenes/so.png)
