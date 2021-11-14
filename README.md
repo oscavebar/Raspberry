@@ -14,3 +14,5 @@
 ## Licencias
 
 [Licencia](imagenes/licencia.png)
+
+### Trabajo realizado por Óscar Avecilla Barrios 1ºASIR
